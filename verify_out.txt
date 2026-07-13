@@ -1,0 +1,60 @@
+Initializing Database tables...
+Checking seeded databases...
+
+User details: Name=Chaithanya, Title='Full Stack Software Engineer'
+Skills: ['Python', 'FastAPI', 'React', 'JavaScript', 'SQL']
+Desired Roles: ['Backend Engineer', 'Software Developer', 'Full Stack Developer']
+Location Preference: Remote
+Min Salary: 90000
+
+Found 7 jobs in db.
+------------------------------------------------------------
+Job: 'Senior React Developer' at TechNova Solutions (Remote)
+  Match Score: 45.4%
+  Matched Skills: ['React', 'JavaScript']
+  Missing Skills: ['TypeScript', 'CSS', 'HTML', 'Redux']
+  Experience Status: Requires 2 more years
+  Breakdown: {'skills': 33.3, 'experience': 60.0, 'title': 25.0, 'preferences': 100.0}
+------------------------------------------------------------
+Job: 'Python Backend Engineer' at PyStream AI (Hybrid)
+  Match Score: 61.2%
+  Matched Skills: ['Python', 'FastAPI']
+  Missing Skills: ['PostgreSQL', 'SQLAlchemy', 'Docker', 'REST API']
+  Experience Status: Excellent Fit
+  Breakdown: {'skills': 33.3, 'experience': 100.0, 'title': 80.0, 'preferences': 75.0}
+------------------------------------------------------------
+Job: 'Junior Frontend Engineer' at CodeLabs (Onsite)
+  Match Score: 53.9%
+  Matched Skills: ['React', 'JavaScript']
+  Missing Skills: ['HTML', 'CSS', 'Figma']
+  Experience Status: Excellent Fit
+  Breakdown: {'skills': 40.0, 'experience': 100.0, 'title': 25.0, 'preferences': 51.7}
+------------------------------------------------------------
+Job: 'Data Scientist / ML Engineer' at InsightCorp (Remote)
+  Match Score: 48.4%
+  Matched Skills: ['Python', 'SQL']
+  Missing Skills: ['Pandas', 'Machine Learning', 'Data Analysis', 'Tableau']
+  Experience Status: Requires 1 more years
+  Breakdown: {'skills': 33.3, 'experience': 75.0, 'title': 20.0, 'preferences': 100.0}
+------------------------------------------------------------
+Job: 'Product Designer' at Canvas Studio (Onsite)
+  Match Score: 31.0%
+  Matched Skills: []
+  Missing Skills: ['Figma', 'UI/UX Design', 'Wireframing', 'Prototyping', 'User Research']
+  Experience Status: Excellent Fit
+  Breakdown: {'skills': 0.0, 'experience': 100.0, 'title': 0.0, 'preferences': 60.0}
+------------------------------------------------------------
+Job: 'DevOps Engineer' at CloudFlow (Remote)
+  Match Score: 33.8%
+  Matched Skills: []
+  Missing Skills: ['AWS', 'Docker', 'Kubernetes', 'Linux', 'Terraform', 'CI/CD']
+  Experience Status: Requires 1 more years
+  Breakdown: {'skills': 0.0, 'experience': 75.0, 'title': 33.3, 'preferences': 100.0}
+------------------------------------------------------------
+Job: 'HR Recruiter' at GrowthScale (Remote)
+  Match Score: 33.6%
+  Matched Skills: []
+  Missing Skills: ['Recruitment', 'Communication', 'HR Tools', 'Sourcing']
+  Experience Status: Excellent Fit
+  Breakdown: {'skills': 0.0, 'experience': 100.0, 'title': 0.0, 'preferences': 86.1}
+------------------------------------------------------------

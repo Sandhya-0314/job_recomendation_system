@@ -1,0 +1,39 @@
+--- Running Full-Stack Auth Verification REST client (urllib version) ---
+
+1. Signing up a new candidate...
+   Error signing up: 500 - {'detail': '<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>'}
+
+2. Logging in as new candidate...
+venv\Scripts\python.e
+xe : Traceback (most 
+recent call last):
+At line:1 char:1
++ venv\Scripts\python
+.exe verify_auth.py 
+> run_auth_out.txt 
+2>&1
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (Traceba   
+ ck (most recent     
+call last)::Stri    
+ng) [], RemoteEx    
+ception
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+  File "D:\Chaithanya
+_Repose\Job_Rec_Sys\b
+ackend\verify_auth.py
+", line 60, in 
+<module>
+    assert code == 
+200
+           
+^^^^^^^^^^^
+AssertionError
